@@ -1,8 +1,8 @@
-# My Special Problem: An example of CMSC 190 GitHub Repository
-Authors: Juan D. Cruz and Adviser' S. Name
+# UPLB DMIS: A Management Information System for UPLB Student Housing Facilities
+Authors: Megan D. Echano and Fermin Roberto G. Lapitan
 
-This is the abstract of my special problem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut congue, diam molestie pellentesque feugiat, lorem libero vehicula lorem, eget accumsan magna mi non sem. Aliquam erat volutpat. Aliquam scelerisque sagittis mi sed consequat. Ut vestibulum ullamcorper fermentum. Vivamus eu efficitur nunc, quis tempus libero. Aliquam condimentum posuere sem, vitae auctor purus tempus quis. Aenean laoreet nulla pretium mauris faucibus gravida. Nunc interdum, tortor at tempus egestas, velit eros bibendum dui, a malesuada mi lectus ut ante. Praesent ac turpis gravida, tincidunt tellus vitae, volutpat tortor.
+The University of the Philippines Los Baños is one of the state universities in the Philippines that offers its own student housing facilities. However, the management system of each dormitory still relies on the traditional way of handling dormers' data with the use of a physical information sheet. The need for a dormitory management information system will significantly alleviate the current process of managing UPLB dormers' information by digitizing resident information and contributing to future-proofing dormitory management in UPLB. The UPLB Dormitory Management Information System is a web application specifically developed to digitize the traditional basic information of UP dormers and alleviate some of the management tasks of UPLB dorm staff. This study presents the development, testing, and evaluation of UPLB DMIS as a technical solution to the growing demands of dorm management. The system was evaluated using the System Usability Scale (SUS). It garnered a mean score of 84.67 which indicates that the web application has an 'A' grading and 'excellent' adjective rating.
 
-Keywords: template, submission, repository, example
+Keywords: dormitory, dorm management, information systems, web application
 
 Read [How To Document](HOWTO.md) for more details.
