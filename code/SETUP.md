@@ -1,19 +1,11 @@
 # Development Set-up
 ## Prerequisites
-* interpreter
-* package manager 1
-* test files (file1, file2)
-* Android phone
-* IDE used, etc
+* Tech Stack: MERN (MongoDB, Express, React, Node)
+* MongoDB
+* Node
+* Visual Studio Code
 ## Instructions
-1. Install `interpeter` from link
-2. Run the following command to install other packages:
-```
-interpreter install package_manager
-package_manager -i packages
-```
-3. Run the following command to use the program:
-```
-myprogram file1 file2
-```
-4. A binary file can also be downloaded from this link which can be used by any device.
+1. Ensure that there are two separate folders for frontend and backend.
+2. Open two terminals and navigate to the frontend and backend folders.
+3. Type `npm install` on both terminals to install all node modules and dependencies.
+4. To open the program, you must first type `npm start` on the backend terminal. Then, run the frontend using another `npm install` on the frontend terminal.
