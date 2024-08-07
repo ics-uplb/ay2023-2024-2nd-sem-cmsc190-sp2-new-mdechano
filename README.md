@@ -1,3 +1,4 @@
+CHECKED BY FRG LAPITAN Aug 7, 2024
 # UPLB DMIS: A Management Information System for UPLB Student Housing Facilities
 Authors: Megan D. Echano and Fermin Roberto G. Lapitan
 
